@@ -13,3 +13,6 @@
 [submodule "public/themes/gitcamp"]
 	path = public/themes/gitcamp
 	url = git://github.com/kennethreitz/redmine-gitcamp-theme.git
+[submodule "vendor/plugins/redmine_todos_plugin"]
+	path = vendor/plugins/redmine_todos_plugin
+	url = git://github.com/dalyons/redmine-todos-scrum-plugin.git
