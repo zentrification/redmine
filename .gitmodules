@@ -1,0 +1,15 @@
+[submodule "public/themes/modula-mojito"]
+	path = public/themes/modula-mojito
+	url = git://github.com/zentrification/modula-mojito.git
+[submodule "public/themes/innerboard"]
+	path = public/themes/innerboard
+	url = git://github.com/huacnlee/redmine-theme-innerboard.git
+[submodule "public/themes/pepper"]
+	path = public/themes/pepper
+	url = git://github.com/koppen/redmine-pepper-theme.git
+[submodule "public/themes/pixel-cookers"]
+	path = public/themes/pixel-cookers
+	url = git://github.com/pixel-cookers/RedmineThemePixelCookers.git
+[submodule "public/themes/gitcamp"]
+	path = public/themes/gitcamp
+	url = git://github.com/kennethreitz/redmine-gitcamp-theme.git
