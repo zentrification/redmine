@@ -9,6 +9,7 @@
 /db/*.db
 /db/*.sqlite3
 /db/schema.rb
+/db/dump.sql
 /files/*
 /lib/redmine/scm/adapters/mercurial/redminehelper.pyc
 /lib/redmine/scm/adapters/mercurial/redminehelper.pyo
