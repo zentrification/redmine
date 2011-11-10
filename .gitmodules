@@ -16,3 +16,9 @@
 [submodule "vendor/plugins/redmine_todos_plugin"]
 	path = vendor/plugins/redmine_todos_plugin
 	url = git://github.com/dalyons/redmine-todos-scrum-plugin.git
+[submodule "vendor/plugins/open_flash_chart"]
+	path = vendor/plugins/open_flash_chart
+	url = git://github.com/pullmonkey/open_flash_chart.git
+[submodule "vendor/plugins/redmine_charts"]
+	path = vendor/plugins/redmine_charts
+	url = git://github.com/mszczytowski/redmine_charts.git
